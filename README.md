@@ -1,4 +1,4 @@
-## Pizza Odering App
+## Pizza Ordering App
 
 This is a pizza order app using react.js
 
