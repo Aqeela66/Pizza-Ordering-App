@@ -2,7 +2,7 @@
 
 This is a pizza order app using react.js
 
-### Whta does This App do?
+### What does This App do?
 
 - This app is use for ordering the pizza
 
