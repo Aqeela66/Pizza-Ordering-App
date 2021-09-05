@@ -8,13 +8,13 @@ This is a pizza order app using react.js
 
 #### Technologies Used
 
-- HTML
+-  HTML
 
--CSS
+-  CSS
 
-- JS
+-  JS
 
--React
+-  React
 
 ##### How to run this App
 
