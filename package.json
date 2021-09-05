@@ -1,6 +1,6 @@
 {
-  "homepage": "https://aqeela66.github.io/Pizza-Ordering-App/"
-  "name" : "pizza-ordering-app",
+  "homepage": "https://aqeela66.github.io/Pizza-Ordering-App/" ,
+  "name" : "Pizza-Ordering-App",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
