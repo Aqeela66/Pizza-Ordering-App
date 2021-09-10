@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Pizza-Ordering-App/static/css/main.172d6930.chunk.css",
+    "main.js": "/Pizza-Ordering-App/static/js/main.29335cc7.chunk.js",
+    "main.js.map": "/Pizza-Ordering-App/static/js/main.29335cc7.chunk.js.map",
+    "runtime-main.js": "/Pizza-Ordering-App/static/js/runtime-main.54e4469a.js",
+    "runtime-main.js.map": "/Pizza-Ordering-App/static/js/runtime-main.54e4469a.js.map",
+    "static/css/2.818011ed.chunk.css": "/Pizza-Ordering-App/static/css/2.818011ed.chunk.css",
+    "static/js/2.d3dc334a.chunk.js": "/Pizza-Ordering-App/static/js/2.d3dc334a.chunk.js",
+    "static/js/2.d3dc334a.chunk.js.map": "/Pizza-Ordering-App/static/js/2.d3dc334a.chunk.js.map",
+    "static/js/3.66be8d02.chunk.js": "/Pizza-Ordering-App/static/js/3.66be8d02.chunk.js",
+    "static/js/3.66be8d02.chunk.js.map": "/Pizza-Ordering-App/static/js/3.66be8d02.chunk.js.map",
+    "index.html": "/Pizza-Ordering-App/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Pizza-Ordering-App/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.172d6930.chunk.css.map": "/Pizza-Ordering-App/static/css/main.172d6930.chunk.css.map",
+    "static/js/2.d3dc334a.chunk.js.LICENSE.txt": "/Pizza-Ordering-App/static/js/2.d3dc334a.chunk.js.LICENSE.txt",
+    "static/media/logo.e39e61f2.PNG": "/Pizza-Ordering-App/static/media/logo.e39e61f2.PNG",
+    "static/media/App.css": "/Pizza-Ordering-App/static/media/page1.fce3767d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54e4469a.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.d3dc334a.chunk.js",
+    "static/css/main.172d6930.chunk.css",
+    "static/js/main.29335cc7.chunk.js"
+  ]
+}
